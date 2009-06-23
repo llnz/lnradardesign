@@ -1,0 +1,13 @@
+lnradardesign
+=============
+
+LN Radar Design are calculators for the Lunar Numbat radar design work.
+
+See http://www.lunarnumbat.org/cgi-bin/twiki/view/LunarNumbat/LNTaskRadarAltimeter
+
+More will be added over time.
+
+Tests
+-----
+
+Some unittests are available in the test directory.
